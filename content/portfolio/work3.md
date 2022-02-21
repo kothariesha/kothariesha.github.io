@@ -4,7 +4,7 @@ title = "Browse With Me"
 draft = false
 image = "img/portfolio/browsewithme_header.png"
 showonlyimage = false
-weight = 3
+weight = 2
 +++
 
 An online clothes shopping assistant for people with visual impairments with support for voice recognition and AI based automated image description generation.
