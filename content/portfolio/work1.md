@@ -13,7 +13,7 @@ To identify design and architectural elements that create or withhold the feelin
 
 ## Overview
 
-Indeed’s UX research Director has shown some concerns that users have used indeed portal frequently to search for job openings but don’t apply through them and his assumption is that probably users don’t trust indeed portal that much and hence he asked us to key elements which indeed can enhance trust amongst its users. They also want to capture the untapped mobile job market so wanted us to look at mobile as primary medium
+Indeed’s UX research Director has shown some concerns that users have used indeed's portal frequently to search for job openings but they don’t actually apply through it. His assumption is that users probably don't trust indeed's portal that much. Hence, he asked us to identify key elements which indeed can implement to enhance trust among its users. They also want to capture the untapped mobile job market and hence wanted us to look at mobile as the primary medium of interaction. 
 
 > - **My Role:** UX researcher
 > - **Time period:** 4 months
